@@ -171,7 +171,7 @@ A seção **Sobre Nós** apresenta informações completas sobre a **Clínica An
 
 ### Visualização da Seção 
 
-| Imagem | Imagem |
+|  |  |
 |--------|--------|
 | ![](https://github.com/user-attachments/assets/aab57ca8-b4df-46a4-a0cc-ad735b0e2400) | ![](https://github.com/user-attachments/assets/9720b095-4685-45e9-9935-5934dcfda44f) |
 | ![](https://github.com/user-attachments/assets/6649a143-6127-4f81-85f4-40b7271a2e63) | ![](https://github.com/user-attachments/assets/33fd36b6-fda7-4324-bf7a-2f9f6ba5fe2f) |
@@ -195,6 +195,11 @@ Cada página possui **textos explicativos e imagens oficiais do ambiente**, gara
 ### 🛏 Leitos e Convênios
 - Informações sobre acomodações e tipos de atendimento  
 - Detalhes sobre convênios aceitos e formas de acesso  
+
+| ![Ala Particular 6](https://github.com/user-attachments/assets/fc35f57d-8396-4f33-8b10-c06045e7328f) | ![Ala Particular 5](https://github.com/user-attachments/assets/d1b866db-e620-478a-9556-cd5583d9b07f) |
+|---------------------------------|---------------------------------|
+| ![Ala Particular 4](https://github.com/user-attachments/assets/306fb1cd-6ff9-495a-bb79-4afe9054d552) | ![Ala Particular 3](https://github.com/user-attachments/assets/2880ed91-0935-4356-aa68-5fb1de5880a0) |
+| ![Ala Particular 2](https://github.com/user-attachments/assets/2a508cd9-d1c9-4206-9487-15377f7e9079) | ![Ala Particular 1](https://github.com/user-attachments/assets/833087ea-79d9-4843-b9b8-3154e8f2202d) |
 
 ---
 
