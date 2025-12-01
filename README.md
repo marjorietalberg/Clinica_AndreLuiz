@@ -169,14 +169,11 @@ A seção **Sobre Nós** apresenta informações completas sobre a **Clínica An
 
 ---
 
-### Visualização da Seção “Sobre Nós”
+### Visualização da Seção “Serviços”
 
-| Página | Descrição | Imagem |
-|--------|-----------|--------|
-| **Sobre Nós: Informações e História** | Missão, Valores, Princípios e História da clínica. | <img src="https://github.com/user-attachments/assets/0b49baa9-e31e-4a3a-a51c-402472ec5aed" alt="Sobre Nós" width="400"> |
-| **Diferenciais e Benefícios** | Destaques dos cuidados, atendimento humanizado e benefícios aos pacientes. | *(Adicionar imagem correspondente)* |
-| **Imagens da Clínica** | Carrossel ou galeria de fotos oficiais mostrando a clínica e instalações. | *(Adicionar imagem correspondente)* |
-
-
-
+| Imagem | Imagem |
+|--------|--------|
+| ![](https://github.com/user-attachments/assets/aab57ca8-b4df-46a4-a0cc-ad735b0e2400) | ![](https://github.com/user-attachments/assets/9720b095-4685-45e9-9935-5934dcfda44f) |
+| ![](https://github.com/user-attachments/assets/6649a143-6127-4f81-85f4-40b7271a2e63) | ![](https://github.com/user-attachments/assets/33fd36b6-fda7-4324-bf7a-2f9f6ba5fe2f) |
+| ![](https://github.com/user-attachments/assets/d6328409-d29c-4f68-bde0-69fde70a4b2e) | ![](https://github.com/user-attachments/assets/5ddec499-d226-4450-9892-f284d1803d30) |
 
