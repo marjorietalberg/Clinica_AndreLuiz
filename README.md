@@ -92,3 +92,91 @@ O sistema foi desenvolvido utilizando as seguintes tecnologias:
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Interatividade e funcionalidades do frontend |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Backend e lógica do sistema |
 
+## Demonstração
+
+### Página Inicial (Home)
+
+A **Home** do sistema é totalmente **responsiva e dinâmica**, oferecendo uma experiência completa para os usuários. Ela apresenta os principais recursos e seções da clínica, organizados de forma clara:
+
+## Demonstração
+
+### Página Inicial (Home)
+
+A **Home** do sistema é totalmente **responsiva e dinâmica**, oferecendo uma experiência completa para todos os usuários.  
+
+#### Cabeçalho (Header)
+
+O cabeçalho é fixo e permite **acesso rápido e organizado** às principais seções do site:
+
+- **Sobre Nós:** apresenta a missão, valores, princípios, história e notícias da clínica. Ao passar o mouse sobre cada item, detalhes adicionais aparecem.  
+- **Serviços:** exibe leitos, ala particular e convênios. Ao passar o mouse, cada serviço mostra informações extras.  
+- **Equipe:** lista os profissionais da clínica (médicos, enfermeiros, outros). Hover sobre cada membro mostra especialidade e informações detalhadas.  
+- **Internação:** informações sobre internação de pacientes, com destaque para possibilidade de teleconsulta.  
+- **Médico para Você:** contato direto com médicos, agendamento de consultas e teleconsultas online.  
+- **Contato / Cadastro / Login:** formulários para acessar o sistema, cadastrar pacientes e enviar mensagens à clínica.  
+
+#### Recursos adicionais do cabeçalho
+
+- **Responsividade completa:** se ajusta a qualquer tamanho de tela, incluindo mobile e tablets.  
+- **Acessibilidade:** suporte a leitura em voz alta e Libras, garantindo inclusão de todos os usuários.  
+- **Interatividade:** menus e elementos reativos ao passar o mouse, melhorando a experiência do usuário.  
+
+<!-- Espaço para adicionar imagens ou GIFs da página inicial -->
+
+
+## Demonstração das Páginas Home
+
+|  | |
+|----------|----------|
+| <img src="https://github.com/user-attachments/assets/9e9788c1-d7bf-42eb-ba98-e1e50029d0e6" alt="Página 1" width="400"> | <img src="https://github.com/user-attachments/assets/0b49baa9-e31e-4a3a-a51c-402472ec5aed" alt="Página 2" width="400"> |
+
+| | |
+|----------|----------|
+| <img src="https://github.com/user-attachments/assets/7ce1a62d-8ec8-47d1-87fd-86a8fc5eb8c2" alt="Página 3" width="400"> | <img src="https://github.com/user-attachments/assets/2e2e2698-11c8-4744-b3e3-d4dcc9d229fe" alt="Página 4" width="400"> |
+
+| | |
+|----------|----------|
+| <img src="https://github.com/user-attachments/assets/fbad7177-2091-4d1d-9d34-5b30b8d9e3e5" alt="Página 5" width="400"> | <img src="https://github.com/user-attachments/assets/eedb4148-118b-41b3-aad7-fee2fbc8eb09" alt="Página 6" width="400"> |
+
+---
+## Sobre Nós
+
+A seção **Sobre Nós** apresenta informações completas sobre a **Clínica André Luiz**, mostrando sua história, valores e os diferenciais que fazem a clínica ser referência em cuidados de saúde física e mental.  
+
+### Estrutura da Seção
+
+1. **Informações da Clínica**
+   - História da clínica, missão, visão e valores.  
+   - Destaque para o compromisso com **atendimento humanizado** e qualidade no cuidado dos pacientes.
+
+2. **Imagens da Clínica**
+   - Carrossel ou galeria de fotos oficiais, mostrando instalações, consultórios e áreas de atendimento.
+
+3. **Diferenciais da Clínica**
+   - Atendimento multiprofissional.  
+   - Estrutura completa para internação e teleconsulta.  
+   - Foco em **cuidado humanizado**, escuta ativa e acompanhamento personalizado.  
+
+4. **Por que Escolher a Clínica**
+   - Tratamentos de qualidade com acompanhamento contínuo.  
+   - Equipe especializada e dedicada.  
+   - Acessibilidade e suporte a tecnologias de comunicação (como Libras e leitura em voz alta).  
+
+5. **Benefícios e Cuidados**
+   - Programa de acompanhamento de pacientes.  
+   - Consultas e teleconsultas online.  
+   - Relatórios e histórico de tratamentos atualizados em tempo real.  
+
+---
+
+### Visualização da Seção “Sobre Nós”
+
+| Página | Descrição | Imagem |
+|--------|-----------|--------|
+| **Sobre Nós: Informações e História** | Missão, Valores, Princípios e História da clínica. | <img src="https://github.com/user-attachments/assets/0b49baa9-e31e-4a3a-a51c-402472ec5aed" alt="Sobre Nós" width="400"> |
+| **Diferenciais e Benefícios** | Destaques dos cuidados, atendimento humanizado e benefícios aos pacientes. | *(Adicionar imagem correspondente)* |
+| **Imagens da Clínica** | Carrossel ou galeria de fotos oficiais mostrando a clínica e instalações. | *(Adicionar imagem correspondente)* |
+
+
+
+
