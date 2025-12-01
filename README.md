@@ -169,11 +169,32 @@ A seção **Sobre Nós** apresenta informações completas sobre a **Clínica An
 
 ---
 
-### Visualização da Seção “Serviços”
+### Visualização da Seção 
 
 | Imagem | Imagem |
 |--------|--------|
 | ![](https://github.com/user-attachments/assets/aab57ca8-b4df-46a4-a0cc-ad735b0e2400) | ![](https://github.com/user-attachments/assets/9720b095-4685-45e9-9935-5934dcfda44f) |
 | ![](https://github.com/user-attachments/assets/6649a143-6127-4f81-85f4-40b7271a2e63) | ![](https://github.com/user-attachments/assets/33fd36b6-fda7-4324-bf7a-2f9f6ba5fe2f) |
 | ![](https://github.com/user-attachments/assets/d6328409-d29c-4f68-bde0-69fde70a4b2e) | ![](https://github.com/user-attachments/assets/5ddec499-d226-4450-9892-f284d1803d30) |
+
+
+## ✨ Serviços e Áreas de Atendimento
+
+Navegando pelas nossas seções de **Serviços**, você encontrará páginas dinâmicas que apresentam cada ala da clínica:  
+
+- **Ala Particular**  
+- **Leitos**  
+- **Convênios**  
+
+Cada página possui **textos explicativos e imagens oficiais do ambiente**, garantindo que pacientes e familiares conheçam melhor nossas instalações.
+
+### 🏠 Ala Particular
+- Fotos oficiais do ambiente da clínica  
+- Textos que descrevem cada espaço e suas funcionalidades  
+
+### 🛏 Leitos e Convênios
+- Informações sobre acomodações e tipos de atendimento  
+- Detalhes sobre convênios aceitos e formas de acesso  
+
+---
 
