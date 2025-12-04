@@ -231,3 +231,32 @@ Dentro da navbar, ao passar o mouse sobre Internação, a opção Teleconsulta a
     </td>
   </tr>
 </table>
+
+---
+
+### Página do Médico 
+
+A página do Médico foi criada para organizar o atendimento e facilitar o acesso rápido às informações dos pacientes. Nela, o profissional pode visualizar a lista de pacientes, acessar detalhes do prontuário, acompanhar o histórico e realizar ações essenciais durante o atendimento. A interface é simples, clara e voltada para agilizar o fluxo de trabalho do médico dentro da clínica.
+
+<table>
+  <!-- LINHA DE BAIXO -->
+  <tr>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/84546e33-9e9e-4dfb-a2df-3c60e3f1b399" />
+    </td>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/6e59f203-e81d-4a94-bd15-0a21323d098b" />
+    </td>
+  </tr>
+
+  <!-- LINHA DE CIMA -->
+  <tr>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/355804e3-d156-40f3-914a-185a3f1d8d9a" />
+    </td>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/ac2d25db-8056-47f5-8b72-1d16ee0974e8" />
+    </td>
+  </tr>
+</table>
+
