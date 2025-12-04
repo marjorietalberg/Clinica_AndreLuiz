@@ -294,16 +294,43 @@ O objetivo é tornar a comunicação simples, prática e acessível para todos q
 
 <table>
   <tr>
-      <td align="center">
+    <td align="center">
       <img width="600" src="https://github.com/user-attachments/assets/c00ccb8d-e504-4cf1-a457-b93351d9d50b" />
     </td>
-  </tr>
     <td align="center">
       <img width="600" src="https://github.com/user-attachments/assets/de24ec78-25d1-4972-b0f5-6c4f265d4f17" />
     </td>
+  </tr>
 </table>
 
+
 ---
+
+### Página de Cadastro 
+
+Permite registrar novos pacientes no sistema da clínica.
+
+Campos: nome, email, telefone, data de nascimento, endereço e CPF.
+
+Criação de senha de acesso ao sistema.
+
+Seleção da especialidade da clínica (médico, enfermagem, psicologia, nutrição etc.).
+
+Interface organizada, simples e rápida para a recepção.
+
+Formulário totalmente responsivo e intuitivo.
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/7a5f23b4-5338-4c3f-9eaf-274cbd6e75de" />
+    </td>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/09d46db8-9202-455a-b342-fff7b204d561" />
+    </td>
+  </tr>
+</table>
+
 
 ## Paginas Internas da Clinica
 ### Pagina da Recepcao
