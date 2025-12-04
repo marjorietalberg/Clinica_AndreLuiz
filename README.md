@@ -203,3 +203,31 @@ Cada página possui **textos explicativos e imagens oficiais do ambiente**, gara
 
 ---
 
+## Internação 
+
+A página de Internação reúne todas as informações essenciais do paciente internado. Ela exibe dados básicos, evolução clínica, horários de medicação, registros da equipe e informações gerais do atendimento. Foi pensada para ser prática, organizada e permitir uma visualização rápida do estado do paciente.
+
+Teleconsulta 
+
+Dentro da navbar, ao passar o mouse sobre Internação, a opção Teleconsulta aparece. A página de Teleconsulta permite que o profissional visualize informações do paciente e inicie o atendimento remoto. Ela apresenta dados essenciais, histórico do paciente e uma interface limpa e simples para facilitar o acompanhamento online.
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/4cba6c85-afd6-40d3-b92b-6213bf8f71dc" />
+    </td>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/8d5030a1-dea5-4fd9-b163-9f1ef8bd9430" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/1a88b785-90f4-47db-8cd9-c83675f0d297" />
+    </td>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/3ab73775-3700-4ce0-8eea-67e06ec464bd" />
+    </td>
+  </tr>
+</table>
