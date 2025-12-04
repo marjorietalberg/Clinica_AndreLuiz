@@ -18,15 +18,27 @@
 <hr style="border:2px solid #1E90FF; width:80%; margin:auto; margin-top:20px;">
 
 
+
 ## 📑 Sumário
+
 1. [Sobre o Projeto](#sobre-o-projeto)
 2. [Objetivo](#objetivo)
 3. [Funcionalidades](#funcionalidades)
 4. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-5. [Demonstração](#demonstração)
-6. [Estrutura do Projeto](#estrutura-do-projeto)
-7. [Referências e Aprendizados](#referências-e-aprendizados)
+5. [Estrutura do Projeto](#estrutura-do-projeto)
+
+6. [Páginas Internas da Clínica](#paginas-internas-da-clinica)
+   - [Página da Recepção](#pagina-da-recepcao)
+   - [Página dos Médicos](#pagina-dos-medicos)
+   - [Página dos Enfermeiros](#pagina-dos-enfermeiros)
+   - [Página da Psicologia](#pagina-da-psicologia)
+   - [Página da Nutrição](#pagina-da-nutricao)
+   - [Página do Usuário](#pagina-do-usuario)
+
+7. [Referências e Aprendizados](#referencias-e-aprendizados)
 8. [Contato](#contato)
+
+
 
 ---
 
@@ -92,13 +104,13 @@ O sistema foi desenvolvido utilizando as seguintes tecnologias:
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Interatividade e funcionalidades do frontend |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Backend e lógica do sistema |
 
-## Demonstração
+
+## Estrutura do Projeto
 
 ### Página Inicial (Home)
 
 A **Home** do sistema é totalmente **responsiva e dinâmica**, oferecendo uma experiência completa para os usuários. Ela apresenta os principais recursos e seções da clínica, organizados de forma clara:
 
-## Demonstração
 
 ### Página Inicial (Home)
 
@@ -260,3 +272,46 @@ A página do Médico foi criada para organizar o atendimento e facilitar o acess
   </tr>
 </table>
 
+---
+
+Página de Contato 
+
+A página de Contato permite que pacientes, profissionais e visitantes se comuniquem rapidamente com a Clínica André Luiz. Ela reúne as principais formas de contato em um só lugar, garantindo acesso fácil e direto às informações da clínica.
+
+A página inclui:
+
+Formulário de envio de mensagens
+
+Telefone e WhatsApp da clínica
+
+Endereço e localização
+
+Horários de atendimento
+
+Canais adicionais, como e-mail e suporte
+
+O objetivo é tornar a comunicação simples, prática e acessível para todos que precisam entrar em contato com a clínica.
+
+<table>
+  <tr>
+      <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/c00ccb8d-e504-4cf1-a457-b93351d9d50b" />
+    </td>
+  </tr>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/de24ec78-25d1-4972-b0f5-6c4f265d4f17" />
+    </td>
+</table>
+
+---
+
+## Paginas Internas da Clinica
+### Pagina da Recepcao
+### Pagina dos Medicos
+### Pagina dos Enfermeiros
+### Pagina da Psicologia
+### Pagina da Nutricao
+### Pagina do Usuario
+
+## Referencias e Aprendizados
+## Contato
