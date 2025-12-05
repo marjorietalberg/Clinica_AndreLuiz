@@ -440,29 +440,35 @@ Pacientes: acesso à ficha completa de cada paciente, incluindo tratamentos, pre
 Área do Médico: integração com Agenda, Consultas, Teleconsulta, Chat e Perfil, permitindo comunicação direta e eficiente com os pacientes.
 
 
+
 <table>
   <tr>
     <td align="center">
-      <img width="600" src="https://github.com/user-attachments/assets/f50d5b2c-d9b5-4d83-a7cd-b98f890ca534" />
+      <img width="400" src="https://github.com/user-attachments/assets/84ede298-b142-4103-af4f-01829b5b3e7d" />
     </td>
     <td align="center">
-      <img width="600" src="https://github.com/user-attachments/assets/abf95ac2-0fff-4d87-9ea8-8d7d268a6954" />
+      <img width="400" src="https://github.com/user-attachments/assets/f50d5b2c-d9b5-4d83-a7cd-b98f890ca534" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img width="600" src="https://github.com/user-attachments/assets/2c557caa-e7e8-4697-b9ae-d12935714158" />
+      <img width="400" src="https://github.com/user-attachments/assets/9b83e583-bae1-4b31-9943-432adb4b9d01" />
     </td>
     <td align="center">
-      <img width="600" src="https://github.com/user-attachments/assets/547794d0-a7b8-4f99-a319-6eca43ab13d0" />
+      <img width="400" src="https://github.com/user-attachments/assets/abf95ac2-0fff-4d87-9ea8-8d7d268a6954" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <img width="600" src="https://github.com/user-attachments/assets/84ede298-b142-4103-af4f-01829b5b3e7d" />
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/2c557caa-e7e8-4697-b9ae-d12935714158" />
+    </td>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/547794d0-a7b8-4f99-a319-6eca43ab13d0" />
     </td>
   </tr>
 </table>
+
+
 
 
 ## Pagina dos Enfermeiros
@@ -492,8 +498,62 @@ Pacientes: acesso às fichas completas, histórico de tratamentos e informaçõe
 
 
 ### Pagina da Psicologia
+
+Página da Psicologia
+
+A página da Psicologia foi desenvolvida para gerenciar atendimentos, agendamentos e acompanhamento de pacientes, facilitando o trabalho dos psicólogos dentro da clínica.
+
+Funcionalidades principais:
+
+Cronograma de Sessões:
+Planejamento e visualização das sessões de cada paciente.
+
+Agendamento de Pacientes:
+Marcar novas consultas ou sessões de acompanhamento diretamente pelo sistema.
+
+Sessões e Tratamento:
+Acompanhar o histórico de sessões, evolução do tratamento e registrar observações importantes.
+
+Anotações:
+Registrar informações confidenciais e relevantes sobre cada paciente.
+
+Mensagens ao Médico:
+Comunicação direta com médicos ou outros profissionais para alinhar tratamentos e cuidados.
+
 ### Pagina da Nutricao
+
+Cadastro de Cardápios:
+Nutricionistas podem criar e adicionar cardápios para os pacientes, detalhando as refeições.
+
+Datas de Início e Fim:
+Definir o período de validade de cada plano alimentar, garantindo que os pacientes sigam o cronograma corretamente.
+
+Visualização pelos Pacientes:
+Os pacientes podem acessar os cardápios disponíveis e acompanhar suas refeições diárias de forma prática.
+
+Planejamento de Refeições:
+Organização das refeições de acordo com o plano nutricional de cada paciente, incluindo observações e orientações.
+
 ### Pagina do Usuario
 
+A página do paciente centraliza todas as informações e funcionalidades necessárias para acompanhar seu tratamento na clínica.
+
+Ela permite:
+
+Visualizar consultas, teleconsultas e histórico médico.
+
+Trocar mensagens com médicos.
+
+Acompanhar a evolução do tratamento, incluindo medicamentos e relatórios.
+
+Agendar consultas informando especialidade, data e observações.
+
+Consultar o cardápio diário e horários das refeições.
+
+Acessar rapidamente informações do dia no painel principal.
+
+Essa abordagem mantém a página organizada, prática e completa, garantindo que o paciente tenha controle total do seu tratamento e acompanhamento clínico.
+
 ## Referencias e Aprendizados
+
 ## Contato
