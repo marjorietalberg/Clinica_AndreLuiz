@@ -190,7 +190,7 @@ A seção **Sobre Nós** apresenta informações completas sobre a **Clínica An
 | ![](https://github.com/user-attachments/assets/d6328409-d29c-4f68-bde0-69fde70a4b2e) | ![](https://github.com/user-attachments/assets/5ddec499-d226-4450-9892-f284d1803d30) |
 
 
-## ✨ Serviços e Áreas de Atendimento
+### Serviços e Áreas de Atendimento
 
 Navegando pelas nossas seções de **Serviços**, você encontrará páginas dinâmicas que apresentam cada ala da clínica:  
 
@@ -200,7 +200,7 @@ Navegando pelas nossas seções de **Serviços**, você encontrará páginas din
 
 Cada página possui **textos explicativos e imagens oficiais do ambiente**, garantindo que pacientes e familiares conheçam melhor nossas instalações.
 
-### 🏠 Ala Particular
+###  Ala Particular
 - Fotos oficiais do ambiente da clínica  
 - Textos que descrevem cada espaço e suas funcionalidades  
 
@@ -244,7 +244,7 @@ Dentro da navbar, ao passar o mouse sobre Internação, a opção Teleconsulta a
   </tr>
 </table>
 
----
+
 
 ### Página do Médico 
 
@@ -274,7 +274,7 @@ A página do Médico foi criada para organizar o atendimento e facilitar o acess
 
 ---
 
-Página de Contato 
+## Página de Contato 
 
 A página de Contato permite que pacientes, profissionais e visitantes se comuniquem rapidamente com a Clínica André Luiz. Ela reúne as principais formas de contato em um só lugar, garantindo acesso fácil e direto às informações da clínica.
 
@@ -331,8 +331,67 @@ Formulário totalmente responsivo e intuitivo.
   </tr>
 </table>
 
+## Login do Sistema
+
+O sistema oferece duas opções de entrada, dependendo do perfil do usuário:
+
+Paciente / Usuário:
+
+Acesso aos próprios dados, histórico de consultas e tratamentos.
+
+Visualização de agendamentos e relatórios pessoais.
+
+Médico / Profissional da Clínica:
+
+Acesso às informações dos pacientes.
+
+Gerenciamento de consultas, tratamentos e teleconsultas.
+
+Funcionalidades conforme a especialidade do profissional (médico, enfermeiro, psicólogo, nutricionista).
+
+
+### 💻 Visualização da Tela de Login (de baixo para cima)
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/1dd96768-8463-4cc0-8864-47077d710ed1" />
+    </td>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/32b2e455-a273-4d0a-8d4a-cc27b126c2a4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/a927e125-2b74-4f39-a7cd-925c77346877" />
+    </td>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/10551310-0863-4622-894c-290e4977fe74" />
+    </td>
+  </tr>
+</table>
 
 ## Paginas Internas da Clinica
+
+O sistema da Clínica André Luiz possui páginas internas específicas para cada perfil de usuário, permitindo um controle organizado e eficiente das atividades da clínica. Cada página foi desenvolvida para oferecer informações claras, fluxos de trabalho otimizados e acesso rápido aos dados necessários.
+
+As principais páginas internas incluem:
+
+📌 Página da Recepção: Permite gerenciar cadastros de pacientes, agendamentos de consultas e organização da agenda da clínica. É a central de controle da rotina administrativa.
+
+👨‍⚕️ Página dos Médicos: Oferece acesso ao histórico de pacientes, prescrições, teleconsultas e acompanhamento de tratamentos. Cada médico visualiza apenas os pacientes sob sua responsabilidade.
+
+🩺 Página dos Enfermeiros: Permite registrar medicamentos administrados, acompanhar evolução clínica e acessar cronogramas de cuidados dos pacientes.
+
+🧠 Página da Psicologia: Área destinada a psicólogos, com registro de sessões, anotações, histórico de pacientes e acompanhamento emocional.
+
+🍎 Página da Nutrição: Gerencia planos alimentares, acompanhamento nutricional e horários de consultas de nutrição.
+
+🙍‍♂️ Página do Usuário: Espaço dedicado ao paciente, permitindo visualizar consultas agendadas, histórico de atendimentos, tratamentos e teleconsultas.
+
+Cada página foi desenvolvida para garantir clareza, praticidade e acessibilidade, atendendo tanto a equipe da clínica quanto aos pacientes, com informações sempre atualizadas e centralizadas.
+
+
 ### Pagina da Recepcao
 ### Pagina dos Medicos
 ### Pagina dos Enfermeiros
