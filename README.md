@@ -35,18 +35,18 @@
    - [Página da Nutrição](#pagina-da-nutricao)
    - [Página do Usuário](#pagina-do-usuario)
 
-7. [Referências e Aprendizados](#referencias-e-aprendizados)
-8. [Contato](#contato)
-
+7. [Contato](#contato)
 
 
 ---
 
 ## Sobre o Projeto
 
-O projeto tem como propósito desenvolver um **sistema para a Clínica André Luiz**, voltado para o **gerenciamento de pacientes, agendamentos de consultas e administração interna da clínica**.  
+O projeto foi desenvolvido para criar um sistema completo para a Clínica André Luiz, com foco no gerenciamento eficiente de pacientes, agendamentos de consultas e administração interna da clínica.
 
-O sistema foi criado para **utilizar a tecnologia a favor da clínica e dos pacientes**, permitindo que os profissionais de saúde acompanhem consultas, tratamentos, teleconsultas e relatórios de forma prática, enquanto os pacientes podem visualizar seus agendamentos e tratamentos em tempo real.  
+A plataforma utiliza tecnologia de ponta para a saúde, permitindo que profissionais acompanhem consultas, tratamentos, teleconsultas e relatórios de forma prática e segura, enquanto os pacientes acessam seus agendamentos e monitoram a evolução de seus tratamentos em tempo real.
+
+Com essa abordagem, o sistema busca integrar processos clínicos e administrativos, melhorar a comunicação entre profissionais e pacientes e promover uma gestão mais ágil, confiável e moderna na área da saúde.
 
 ---
 
@@ -560,21 +560,14 @@ Organização das refeições de acordo com o plano nutricional de cada paciente
 <table>
   <tr>
     <td align="center">
-      <img width="400" src="https://github.com/user-attachments/assets/5aff9840-1b34-4997-b546-16f2cbf5a4b4" />
+      <img width="600" src="https://github.com/user-attachments/assets/afe9ad8f-900f-4ae4-97e7-d6d7c2e8e549" />
     </td>
     <td align="center">
-      <img width="400" src="https://github.com/user-attachments/assets/4e48b933-15bf-42d8-82ad-1058d2261604" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="400" src="https://github.com/user-attachments/assets/33d8fbb2-9415-4cd2-a552-68bd39f7c0e7" />
-    </td>
-    <td align="center">
-      <img width="400" src="https://github.com/user-attachments/assets/00200c2b-9bbd-4c4a-be5b-bf6ccaed1006" />
+      <img width="600" src="https://github.com/user-attachments/assets/d679277f-299c-4d50-9e62-645c5294786f" />
     </td>
   </tr>
 </table>
+
 
 ### Pagina do Usuario
 
@@ -596,10 +589,6 @@ Acessar rapidamente informações do dia no painel principal.
 
 Essa abordagem mantém a página organizada, prática e completa, garantindo que o paciente tenha controle total do seu tratamento e acompanhamento clínico.
 
-
-### 🌙 Página do Usuário – Modo Noturno
-
-A página do usuário em modo noturno oferece uma experiência confortável e moderna, permitindo acompanhar consultas, tratamentos, teleconsultas, mensagens e cardápio diário de forma intuitiva.
 
 <table>
   <tr>
@@ -636,6 +625,23 @@ A página do usuário em modo noturno oferece uma experiência confortável e mo
   </tr>
 </table>
 
-## Referencias e Aprendizados
+A página do usuário em modo noturno oferece uma experiência confortável e moderna, permitindo acompanhar consultas, tratamentos, teleconsultas, mensagens e cardápio diário de forma intuitiva.
+
+---
 
 ## Contato
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a35bb5e5-22d8-46eb-a7f8-e5554e7af355" width="150" style="border-radius:50%;" />
+    </td>
+    <td style="padding-left:20px; vertical-align:middle;">
+      <p><strong>📧 Email:</strong> <a href="mailto:marjorietalberg1@gmail.com">marjorietalberg1@gmail.com</a></p>
+      <p><strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/marjorie-talberg-89112a35a" target="_blank">linkedin.com/in/marjorie-talberg-89112a35a</a></p>
+    </td>
+  </tr>
+</table>
+
+
+
