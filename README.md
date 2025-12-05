@@ -425,53 +425,72 @@ Essa página otimiza o fluxo de trabalho, reduz erros e facilita a comunicação
 
 ### Pagina dos Medicos
 
-👨‍⚕️ Página dos Médicos
-
-A página dos médicos foi desenvolvida para facilitar o atendimento e o gerenciamento de pacientes dentro da clínica.
+A página dos médicos foi projetada para otimizar o atendimento e o gerenciamento de pacientes, reunindo todas as informações e ferramentas essenciais em um único painel.
 
 Funcionalidades principais:
 
-Medicamentos:
+Medicamentos: prescrição e gerenciamento do histórico de medicamentos dos pacientes.
 
-Prescrever medicamentos aos pacientes.
+Agenda: visualização e organização de consultas, teleconsultas e próximos atendimentos.
 
-Gerenciar o histórico de prescrições.
+Consultas: acompanhamento detalhado de consultas marcadas e históricos clínicos.
 
-Agenda:
+Pacientes: acesso à ficha completa de cada paciente, incluindo tratamentos, prescrições e histórico de consultas.
 
-Visualizar e organizar próximos agendamentos.
+Área do Médico: integração com Agenda, Consultas, Teleconsulta, Chat e Perfil, permitindo comunicação direta e eficiente com os pacientes.
 
-Controlar consultas e teleconsultas.
 
-Consultas:
+<table>
+  <tr>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/f50d5b2c-d9b5-4d83-a7cd-b98f890ca534" />
+    </td>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/abf95ac2-0fff-4d87-9ea8-8d7d268a6954" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/2c557caa-e7e8-4697-b9ae-d12935714158" />
+    </td>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/547794d0-a7b8-4f99-a319-6eca43ab13d0" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img width="600" src="https://github.com/user-attachments/assets/84ede298-b142-4103-af4f-01829b5b3e7d" />
+    </td>
+  </tr>
+</table>
 
-Acompanhar os próximos atendimentos.
 
-Ver detalhes de cada consulta marcada.
+## Pagina dos Enfermeiros
 
-Pacientes:
+Funcionalidades principais:
 
-Listar todos os pacientes sob cuidado.
+Medicamentos: registro de medicamentos administrados e controle do histórico de pacientes.
 
-Acessar ficha completa do paciente com histórico de consultas, tratamentos e prescrições.
+Agenda e Turnos: visualização de cronograma de atendimentos, incluindo turnos de trabalho.
 
-Área do Médico:
+Consultas: acompanhamento de consultas e evolução clínica dos pacientes.
 
-Agenda, Consultas, Teleconsulta, Chat e Perfil.
+Pacientes: acesso às fichas completas, histórico de tratamentos e informações essenciais para o cuidado diário.
 
-Possibilita interação direta com pacientes e visualização de informações importantes para cada atendimento.
+Área do Enfermeiro: integração com Agenda, Consultas, Teleconsulta, Chat e Perfil, permitindo comunicação eficiente com a equipe médica e pacientes.
 
-Indicadores e Resumo
+<table>
+  <tr>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/7cd2e1f1-a152-44e4-8713-d57e2a4b6f7e" />
+    </td>
+    <td align="center">
+      <img width="600" src="https://github.com/user-attachments/assets/94748191-4194-4873-9c35-81b182d37e66" />
+    </td>
+  </tr>
+</table>
 
-Medicamentos Hoje: número de prescrições para o dia.
 
-Urgentes: pacientes ou tarefas que precisam de atenção imediata.
-
-Consultas: quantidade de consultas marcadas.
-
-Pacientes: número total de pacientes cadastrados.
-
-### Pagina dos Enfermeiros
 ### Pagina da Psicologia
 ### Pagina da Nutricao
 ### Pagina do Usuario
