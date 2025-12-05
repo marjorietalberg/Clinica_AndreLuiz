@@ -392,8 +392,85 @@ As principais páginas internas incluem:
 Cada página foi desenvolvida para garantir clareza, praticidade e acessibilidade, atendendo tanto a equipe da clínica quanto aos pacientes, com informações sempre atualizadas e centralizadas.
 
 
-### Pagina da Recepcao
+## Pagina da Recepcao
+
+Página da Recepção
+
+A Página da Recepção organiza todas as atividades administrativas da clínica, garantindo eficiência e clareza.
+
+Principais funcionalidades:
+
+Pacientes: cadastro, consulta e histórico de atendimentos.
+
+Profissionais: cadastro, especialidades e agenda de médicos, enfermeiros, psicólogos e nutricionistas.
+
+Agendamentos: criação, gerenciamento e acompanhamento de consultas e teleconsultas.
+
+Visitantes: registro de acompanhantes e controle de entradas e saídas.
+
+Essa página otimiza o fluxo de trabalho, reduz erros e facilita a comunicação entre pacientes e profissionais.
+
+<table>
+  <tr>
+    <td><img width="400" src="https://github.com/user-attachments/assets/7fd4de02-c8c1-49d5-8616-c565469f9423" /></td>
+    <td><img width="400" src="https://github.com/user-attachments/assets/a05739ea-72a6-47b9-9ff0-5112f0ea8009" /></td>
+  </tr>
+  <tr>
+    <td><img width="400" src="https://github.com/user-attachments/assets/89127793-29d6-4d76-9171-47bdcbbd3669" /></td>
+    <td><img width="400" src="https://github.com/user-attachments/assets/a503192a-8742-40ac-99c0-5c1fae91b512" /></td>
+  </tr>
+</table>
+
+
+
 ### Pagina dos Medicos
+
+👨‍⚕️ Página dos Médicos
+
+A página dos médicos foi desenvolvida para facilitar o atendimento e o gerenciamento de pacientes dentro da clínica.
+
+Funcionalidades principais:
+
+Medicamentos:
+
+Prescrever medicamentos aos pacientes.
+
+Gerenciar o histórico de prescrições.
+
+Agenda:
+
+Visualizar e organizar próximos agendamentos.
+
+Controlar consultas e teleconsultas.
+
+Consultas:
+
+Acompanhar os próximos atendimentos.
+
+Ver detalhes de cada consulta marcada.
+
+Pacientes:
+
+Listar todos os pacientes sob cuidado.
+
+Acessar ficha completa do paciente com histórico de consultas, tratamentos e prescrições.
+
+Área do Médico:
+
+Agenda, Consultas, Teleconsulta, Chat e Perfil.
+
+Possibilita interação direta com pacientes e visualização de informações importantes para cada atendimento.
+
+Indicadores e Resumo
+
+Medicamentos Hoje: número de prescrições para o dia.
+
+Urgentes: pacientes ou tarefas que precisam de atenção imediata.
+
+Consultas: quantidade de consultas marcadas.
+
+Pacientes: número total de pacientes cadastrados.
+
 ### Pagina dos Enfermeiros
 ### Pagina da Psicologia
 ### Pagina da Nutricao
