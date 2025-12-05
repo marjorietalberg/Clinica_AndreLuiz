@@ -520,6 +520,28 @@ Registrar informações confidenciais e relevantes sobre cada paciente.
 Mensagens ao Médico:
 Comunicação direta com médicos ou outros profissionais para alinhar tratamentos e cuidados.
 
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/00200c2b-9bbd-4c4a-be5b-bf6ccaed1006" />
+    </td>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/33d8fbb2-9415-4cd2-a552-68bd39f7c0e7" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/4e48b933-15bf-42d8-82ad-1058d2261604" />
+    </td>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/5aff9840-1b34-4997-b546-16f2cbf5a4b4" />
+    </td>
+  </tr>
+</table>
+
+
+
 ### Pagina da Nutricao
 
 Cadastro de Cardápios:
@@ -533,6 +555,26 @@ Os pacientes podem acessar os cardápios disponíveis e acompanhar suas refeiç�
 
 Planejamento de Refeições:
 Organização das refeições de acordo com o plano nutricional de cada paciente, incluindo observações e orientações.
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/5aff9840-1b34-4997-b546-16f2cbf5a4b4" />
+    </td>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/4e48b933-15bf-42d8-82ad-1058d2261604" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/33d8fbb2-9415-4cd2-a552-68bd39f7c0e7" />
+    </td>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/00200c2b-9bbd-4c4a-be5b-bf6ccaed1006" />
+    </td>
+  </tr>
+</table>
 
 ### Pagina do Usuario
 
@@ -553,6 +595,46 @@ Consultar o cardápio diário e horários das refeições.
 Acessar rapidamente informações do dia no painel principal.
 
 Essa abordagem mantém a página organizada, prática e completa, garantindo que o paciente tenha controle total do seu tratamento e acompanhamento clínico.
+
+
+### 🌙 Página do Usuário – Modo Noturno
+
+A página do usuário em modo noturno oferece uma experiência confortável e moderna, permitindo acompanhar consultas, tratamentos, teleconsultas, mensagens e cardápio diário de forma intuitiva.
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/598e33b6-0b3f-472c-9f3c-ad8f0723b39a" />
+    </td>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/58ce59ec-6b98-4ab5-abfb-e7602d89789b" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/43f73a5c-960d-4f42-91f3-6ef892bcb064" />
+    </td>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/5e13b4a7-5554-41e7-85f2-46eae09fb3c0" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/5acb62fc-d8f2-4342-be58-3a3fabda61b0" />
+    </td>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/ff213794-ab49-454e-8aa8-b4f34ab4ae16" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/2b1ee456-9347-4b5b-a58c-1a315a0d8cc7" />
+    </td>
+    <td align="center">
+      <img width="400" src="https://github.com/user-attachments/assets/463b9766-0735-4f21-8f9c-07f093b39f7d" />
+    </td>
+  </tr>
+</table>
 
 ## Referencias e Aprendizados
 
